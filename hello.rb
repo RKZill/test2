@@ -1,1 +1,1 @@
- puts "HI, world"
+puts "HI, #{ARGV.first}"
